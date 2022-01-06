@@ -25,7 +25,7 @@
 - Left, Right, Forward 단순 결과
 - Problem : 각도 범위가 조금만 커져도 매우 불안정함
 
-<img src="https://user-images.githubusercontent.com/62232217/148343236-fb881279-5ba3-4367-95fc-79811f9f0be0.jpg"  width="250" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148343233-2faf9e01-c558-48a0-9a03-f6a83596ad1f.jpg"  width="250" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148343237-21f93fa8-4ee3-4c13-8eee-e83355b08b67.jpg"  width="250" height="200"/>
+<img src="https://user-images.githubusercontent.com/62232217/148343236-fb881279-5ba3-4367-95fc-79811f9f0be0.jpg"  width="260" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148343233-2faf9e01-c558-48a0-9a03-f6a83596ad1f.jpg"  width="260" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148343237-21f93fa8-4ee3-4c13-8eee-e83355b08b67.jpg"  width="260" height="200"/>
 
 ### 4. Deepgaze(https://github.com/mpatacchiola/deepgaze)
 - 3개의 축을 명확히 확인 가능
