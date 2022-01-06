@@ -30,3 +30,20 @@
 ### 4. Deepgaze(https://github.com/mpatacchiola/deepgaze)
 - 3개의 축을 명확히 확인 가능
 - Problem : 각도 범위 매우 한정적, 얼굴 인식 자체의 불안정
+
+<img src="https://user-images.githubusercontent.com/62232217/148345234-cfc69e22-0d72-4de7-a921-4ea17274e3a7.jpg"  width="300" height="240"/>  <img src="https://user-images.githubusercontent.com/62232217/148345238-edfc1817-74f5-4c81-b0a0-8983e5c93c18.jpg"  width="300" height="240"/> <img src="https://user-images.githubusercontent.com/62232217/148345242-f41948c0-b354-4426-8a92-9b47f03e033b.jpg"  width="300" height="240"/>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/62232217/148345237-ef10dd10-ec2e-44c0-8450-06f2f5970033.jpg"  width="300" height="240"/> <img src="https://user-images.githubusercontent.com/62232217/148345240-3d272a54-51f5-42a3-982d-1ef4368f6455.jpg"  width="300" height="240"/>
+
+### 5. FSA-Net(https://github.com/shamangary/FSA-Net)
+- Keras & Tensorflow
+- Problem : Version 문제(Tensorflow-gpu)
+
+### 6. Face Pose with Retina Face(https://github.com/fisakhan/Face_Pose)
+- Tensorflow 2.x.x
+- 인식률 좋음(전신이 나오는 frame 환경에서도 안정적)
+- 높은 정확도
+#### ※ Range
+Roll: -x to x (0 is frontal, positive is clock-wise, negative is anti-clock-wise)<br>
+Yaw: -x to x (0 is frontal, positive is looking right, negative is looking left)<br>
+Pitch: 0 to 4 (0 is looking upward, 1 is looking straight, >1 is looking downward)<br>
