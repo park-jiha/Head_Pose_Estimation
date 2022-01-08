@@ -58,7 +58,7 @@ Pitch: 0 to 4 (0 is looking upward, 1 is looking straight, >1 is looking downwar
 <img src="https://user-images.githubusercontent.com/62232217/148655691-5b3845df-62ab-44ae-8ffb-b9227bad9f22.png"  width="300" height="220"/>  <img src="https://user-images.githubusercontent.com/62232217/148655693-9a31a129-3a54-4f98-9b11-aa6853933d6d.png"  width="250" height="220"/>
 
 - 모자 착용 시 & 마스크 → 얼굴을 거의 다 가리지 않는 범위에서는 꽤 정확하게 인식함
-
+<img src="https://user-images.githubusercontent.com/62232217/148655735-5eeb723e-f071-4514-a994-328d332c5690.png"  width="250" height="200"/>  <img src="https://user-images.githubusercontent.com/62232217/148655736-bb089acf-711d-4876-92b1-f04bd79dce99.png"  width="250" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148655738-6537dd65-67ce-4f3d-a8d1-ea704b1f56c0.png"  width="250" height="200"/>
 
 - 마스크 (+모자) → 마스크 인식률 훌륭하고, 마스크+모자일때는 아주 약간 차이가 눈에 보임
 
