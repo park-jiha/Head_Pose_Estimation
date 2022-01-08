@@ -48,3 +48,19 @@ Roll: -x to x (0 is frontal, positive is clock-wise, negative is anti-clock-wise
 Yaw: -x to x (0 is frontal, positive is looking right, negative is looking left)<br>
 Pitch: 0 to 4 (0 is looking upward, 1 is looking straight, >1 is looking downward)<br>
 
+<img src="https://user-images.githubusercontent.com/62232217/148650217-f87f2079-065c-46b1-b9ef-5d8e2e79460a.png"  width="250" height="200"/>  <img src="https://user-images.githubusercontent.com/62232217/148650224-6df0f88e-1d03-4d8d-a813-274c2579e60d.png"  width="250" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148650227-3c15467b-7616-42ae-8ab8-55dd3798c98e.png"  width="250" height="200"/>
+
+<img src="https://user-images.githubusercontent.com/62232217/148650229-334d8be0-7660-46d7-abe2-ab2c2634d08b.png"  width="250" height="200"/>  <img src="https://user-images.githubusercontent.com/62232217/148650232-4b7b6da4-d4b0-4f1d-80a6-c19e845a6f83.png"  width="250" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148650234-fcae35a5-508c-4618-9022-c5fb15c6c51f.png"  width="250" height="200"/>
+
+<img src="https://user-images.githubusercontent.com/62232217/148650243-be07c434-ecab-4061-b625-b83f173ad1ab.png"  width="250" height="200"/>  <img src="https://user-images.githubusercontent.com/62232217/148650246-a8e1b113-e16f-4537-8482-7f24b62bdba2.png"  width="250" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148650250-782c8d2f-4677-4da5-8dbc-eb8e871518e7.png"  width="250" height="200"/>
+
+- 먼거리 인식률 확인(+ 밝을 때, 어두울 때) → 빛이 강하게 내리쬐는 경우 아니면 잘 인식함
+
+
+- 모자 착용 시 & 마스크 → 얼굴을 거의 다 가리지 않는 범위에서는 꽤 정확하게 인식함
+
+
+- 마스크 (+모자) → 마스크 인식률 훌륭하고, 마스크+모자일때는 아주 약간 차이가 눈에 보임
+
+
+- 전체적인 시연 영상
