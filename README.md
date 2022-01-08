@@ -68,4 +68,4 @@ Pitch: 0 to 4 (0 is looking upward, 1 is looking straight, >1 is looking downwar
 
 - 전체적인 시연 영상
 
-<img src="https://user-images.githubusercontent.com/62232217/148657011-3ca75d5a-2b36-4e54-97fd-269625c74ed9.gif"  width="400" height="300"/>
+<img src="https://user-images.githubusercontent.com/62232217/148657011-3ca75d5a-2b36-4e54-97fd-269625c74ed9.gif"  width="480" height="300"/>
