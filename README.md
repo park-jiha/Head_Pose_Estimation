@@ -47,3 +47,4 @@
 Roll: -x to x (0 is frontal, positive is clock-wise, negative is anti-clock-wise)<br>
 Yaw: -x to x (0 is frontal, positive is looking right, negative is looking left)<br>
 Pitch: 0 to 4 (0 is looking upward, 1 is looking straight, >1 is looking downward)<br>
+
