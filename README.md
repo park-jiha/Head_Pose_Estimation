@@ -1,5 +1,8 @@
 # Head Pose Estimation
 
+## Code Update
+- Face Pose(with Retina Face) 2021.10.04 ver.
+
 ## 목적
 - 사용자의 얼굴을 웹캠을 이용해 실시간으로 입력받음
 - Roll, Pitch, Yaw를 이용한 3D 방향값 도출
