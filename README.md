@@ -67,3 +67,6 @@ Pitch: 0 to 4 (0 is looking upward, 1 is looking straight, >1 is looking downwar
 <img src="https://user-images.githubusercontent.com/62232217/148655777-6ffcaf19-1bb1-4640-a867-ac155457ea1c.png"  width="300" height="220"/>  <img src="https://user-images.githubusercontent.com/62232217/148655778-6628c7e9-6610-4c12-b8db-9b17d229d08e.png"  width="300" height="220"/>
 
 - 전체적인 시연 영상
+
+<img src="https://user-images.githubusercontent.com/62232217/148342110-e2c43c5e-8cb7-4244-b8ca-b97141dce0df.gif"  width="400" height="300"/>
+![image](https://user-images.githubusercontent.com/62232217/148656865-02dc2cde-5e4b-4a01-8800-f7423e02b88d.png)
