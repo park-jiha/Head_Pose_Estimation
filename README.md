@@ -42,7 +42,7 @@
 - Keras & Tensorflow
 - Problem : Version 문제(Tensorflow-gpu)
 
-### 6. Face Pose with Retina Face(https://github.com/fisakhan/Face_Pose)
+### 6. Face Pose with Retina Face(https://github.com/fisakhan/Face_Pose) (★)
 - Tensorflow 2.x.x
 - 인식률 좋음(전신이 나오는 frame 환경에서도 안정적)
 - 높은 정확도
