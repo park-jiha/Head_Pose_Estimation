@@ -55,7 +55,7 @@ Pitch: 0 to 4 (0 is looking upward, 1 is looking straight, >1 is looking downwar
 <img src="https://user-images.githubusercontent.com/62232217/148650243-be07c434-ecab-4061-b625-b83f173ad1ab.png"  width="250" height="200"/>  <img src="https://user-images.githubusercontent.com/62232217/148650246-a8e1b113-e16f-4537-8482-7f24b62bdba2.png"  width="250" height="200"/> <img src="https://user-images.githubusercontent.com/62232217/148650250-782c8d2f-4677-4da5-8dbc-eb8e871518e7.png"  width="250" height="200"/>
 
 - 먼거리 인식률 확인(+ 밝을 때, 어두울 때) → 빛이 강하게 내리쬐는 경우 아니면 잘 인식함
-
+<img src="https://user-images.githubusercontent.com/62232217/148655691-5b3845df-62ab-44ae-8ffb-b9227bad9f22.png"  width="300" height="220"/>  <img src="https://user-images.githubusercontent.com/62232217/148655693-9a31a129-3a54-4f98-9b11-aa6853933d6d.png"  width="250" height="220"/>
 
 - 모자 착용 시 & 마스크 → 얼굴을 거의 다 가리지 않는 범위에서는 꽤 정확하게 인식함
 
