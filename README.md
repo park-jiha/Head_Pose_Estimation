@@ -3,6 +3,7 @@
 ## Code Update
 - Face Pose(with Retina Face) 2021.10.04 ver.
 - 2022.1.25 ver. : 좌, 우, 정면, 위, 아래, 왼쪽 위, 왼쪽 아래, 오른쪽 위, 오른쪽 아래 범위 지정, angle 값 검토
+- 2022.3.16 ver. : 좌, 우 방면 5분할(세분화), 카메라와 객체 사이 거리 기준 160cm / retinaface 이외의 detection 모델 검토(mediapipe) -> 어두운 환경에서 인식률 저하 문제 
 
 ## 목적
 - 사용자의 얼굴을 웹캠을 이용해 실시간으로 입력받음
