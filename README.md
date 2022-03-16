@@ -75,4 +75,4 @@ Pitch: 0 to 4 (0 is looking upward, 1 is looking straight, >1 is looking downwar
 
 <img src="https://user-images.githubusercontent.com/62232217/148657011-3ca75d5a-2b36-4e54-97fd-269625c74ed9.gif"  width="480" height="300"/>
 
-+ 3.16(수) : 어두운 상황(메타버스 체험 박스 내부) 및 마스크 착용 -> 얼굴이 어둡거나 빛이 반사되어 너무 밝게 보이는 경우 아예 인식이 안되는 문제, 새로운 detection 방법 고민
+++ 3.16(수) : 어두운 상황(메타버스 체험 박스 내부) 및 마스크 착용 -> 얼굴이 어둡거나 빛이 반사되어 너무 밝게 보이는 경우 아예 인식이 안되는 문제, 새로운 detection 방법 고민
